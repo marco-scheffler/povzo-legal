@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img"><title>povzo-mark-dark</title><defs>
+<linearGradient id="brand" x1="0%" y1="0%" x2="100%" y2="20%"><stop stop-color="#A855F7"/><stop offset=".5" stop-color="#EC4899"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+<linearGradient id="zo"><stop stop-color="#EC4899"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+<linearGradient id="sweep"><stop stop-color="#A855F7"/><stop offset=".5" stop-color="#EC4899"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+<linearGradient id="glass" x2="0" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".025"/><stop offset=".4" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#09080F" stop-opacity=".04"/></linearGradient>
+<radialGradient id="glowV"><stop stop-color="#A855F7" stop-opacity=".52"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowO"><stop stop-color="#EC4899" stop-opacity=".36"/><stop offset="1" stop-color="#F97316" stop-opacity="0"/></radialGradient>
+<filter id="bloom" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="6"/></filter>
+<filter id="bloom-wide" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="16"/></filter>
+</defs><g transform="translate(36 30) scale(4.4)"><g transform="matrix(1 0 -.1 1 5 0)"><rect x="4" y="4" width="92" height="92" rx="22" fill="url(#brand)"/><rect x="4" y="4" width="92" height="92" rx="22" fill="url(#glass)" stroke="#FFFFFF" stroke-opacity=".12" stroke-width=".7"/></g><g transform="translate(4 0) scale(0.94)"><path d="M29 18 H54 C75 18 86 29 86 46 C86 64 72 75 52 75 H43 V80 Q43 88 35 88 H28 Q23 88 23 82 V25 Q23 18 29 18 Z M45 34 Q42 33 42 37 V56 Q42 60 46 58 L65 48 Q69 46 65 44 Z" transform="matrix(1 0 -.18 1 10 0)" fill="#FFFFFF" fill-rule="evenodd"/></g></g></svg>
